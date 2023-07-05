@@ -1,1 +1,1 @@
-# problem-solving
+# Challenges from Codewars and Leetcode
